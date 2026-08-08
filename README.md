@@ -9,6 +9,8 @@ Each doc below is a Markdown file in this repo — click any link to read it dir
 
 - [Getting Started: Git, GitHub, and Gradle](./Getting_Started_Setup.md) — create your GitHub account,
   set up Git and SSH locally, push your first commit, and run a project with the Gradle wrapper.
+- [Repo Naming Conventions](./Repo_Naming_Conventions.md) — how repos in this organization are named
+  and numbered.
 
 ## Git & GitHub Workflow
 
